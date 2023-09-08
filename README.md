@@ -30,7 +30,7 @@ To use our tennis court finder and reservation application, all you require is a
 Go to the website
 
 Start the experience:
-<a href="https://us-open-courts.herokuapp.com/">US Open Courts</a>
+<a href="[https://us-open-courts.herokuapp.com/](https://us-open-courts-5613b1e251d9.herokuapp.com/)">US Open Courts</a>
 
 # Features
 
